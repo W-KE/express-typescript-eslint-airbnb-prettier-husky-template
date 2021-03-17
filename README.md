@@ -490,3 +490,5 @@ We deep dive into a production tested node.js project structure, here are some s
 5. Split your node.js server configurations into small modules that can be loaded independently.
 
 ## [See the example repository here](https://github.com/santiq/bulletproof-nodejs)
+
+[reference](https://softwareontheroad.com/ideal-nodejs-project-structure/)
